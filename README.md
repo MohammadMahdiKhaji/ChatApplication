@@ -1,2 +1,2 @@
 # ChatApplication
-A simple live ChatApplication implementing websocket
+A Real-Time Chat Application with Websocket
